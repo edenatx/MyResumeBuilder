@@ -17,8 +17,3 @@ plugins {
 repositories {
     jcenter()
 }
-
-
-asciidoctor {
-  outputDir = file('docs')
-}
