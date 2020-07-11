@@ -1,4 +1,6 @@
 = Eden's Resume
+:stylesdir: ./src/css
+:stylesheet: adoc-github.css
 
 == Overview
 A full stack software engineer with most of the experience in the backend. Taken solutions from the whiteboard to completion. 
@@ -10,7 +12,10 @@ Version Control: Git, TFS
 
 == Experience
 === Under Armour
-.Lead Software Engineer
+.Lead Software Engineer 
+
+_September 2019 - Present_
+
 Worked on the team responsible for handling user sign-on, subscription management, and user data management.
 
 * Architected and built a solution allowing users to delete their own data. Worked and coordinated across all app teams
@@ -18,6 +23,9 @@ Worked on the team responsible for handling user sign-on, subscription managemen
 
 === Civitas Learning 
 .Senior Software Engineer
+
+_June 2016 - September 2019_
+
 Senior engineer working hand in hand with product owners and data scientists to build out a new product being sold to customers. I participated in work across the stack including the web ui, web services, and a Spark job running on AWS. 
 
 * Build out a new client using web application with React/Redux
@@ -28,6 +36,9 @@ Senior engineer working hand in hand with product owners and data scientists to 
 
 === Charles Schwab
 .Senior Staff Software Engineer
+
+_June 2011 - June 2016_
+
 Tech lead and developer of customer facing Schwab advisor website. Lead engineer of Schwab’s internal platform as a service. 
 
 * Design and delivery of a major iteration of Schwab’s Platform as a Service. 
@@ -42,6 +53,9 @@ Key contributor to the middleware platform. Worked on multiple platforms such as
 
 === Bank of America Merrill Lynch
 .Technology Analyst
+
+_May 2008 - June 2011_
+
 Contributor to a java web service platform used for rules configuration management.
 
 * Worked on a SOAP based service using Spring-WS for configuration management. 
