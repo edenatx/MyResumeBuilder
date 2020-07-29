@@ -16,3 +16,6 @@ Run the following command to build the HTML
 
 Run the following command to build the pdf
 `./gradlew asciidoctorPdf`
+
+## How to access site that gets published?
+https://edenatx.github.io/resume/
