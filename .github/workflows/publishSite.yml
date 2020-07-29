@@ -2,7 +2,9 @@ name: Publish Site
 on: 
   push:
     branches:
-      - master
+      - main
+    paths:
+      - 'src/**'
 jobs:
   report:
     runs-on: ubuntu-latest
