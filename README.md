@@ -2,6 +2,7 @@
 
 The goal of this repo was to write my resume with asciidoc and automatically publish it to a host and generate a PDF 
 
+![Resume Publishing](https://github.com/edenatx/resume/workflows/Publish%20Site/badge.svg)
 
 ## Why asciidoc?
 You can use asciidoc to generate html and a pdf from the same file. 
