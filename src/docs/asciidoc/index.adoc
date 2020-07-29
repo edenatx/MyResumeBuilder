@@ -1,14 +1,16 @@
 = Eden's Resume
 :stylesdir: ./src/css
 :stylesheet: adoc-github.css
+Eden Mondragon <edenael20@gmail.com>
+Austin Texas
 
-== Overview
-A full stack software engineer with most of the experience in the backend. Taken solutions from the whiteboard to completion. 
+A lead engineer with full stack experience looking for opportunities to keep trying new things and grow as an engineer
 
-=== Tech Background
+== Tech Background
 Languages: Java, Scala, Groovy, Javascript, C# +
 Cloud platforms: AWS, Azure +
-Version Control: Git, TFS
+Version Control: Git, TFS +
+Github: https://github.com/edenatx
 
 == Experience
 === Under Armour
@@ -62,6 +64,17 @@ Contributor to a java web service platform used for rules configuration manageme
 * Developed a web application integrated with a business workflow engine. This required speaking with the business side to gather proper requirements and architect a solution.
 * Developed and maintained python scripts for admin support
 * Participated in production support
+
+
+=== Bank of America Merrill Lynch
+.Summer Technology Analyst, Merrill Lynch
+
+_Summer 2007_
+
+Summer internship with the convertible bonds team. Build a java event consumer for real trading events to assist traders with real time decisions.
+
+* Build a java service using Spring
+* Built out bash scripts for deployment
 
 == Education
 
