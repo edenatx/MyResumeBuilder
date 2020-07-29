@@ -18,22 +18,22 @@ Github: https://github.com/edenatx
 
 _September 2019 - Present_
 
-Worked on the team responsible for handling user sign-on, subscription management, and user data management.
+Lead contributor on the team responsible for handling user sign-in, subscription management, and user data management.
 
-* Architected and built a solution allowing users to delete their own data. Worked and coordinated across all app teams
-* Supported projects that allow users to authenticate or pay for a subscription
+* Architected and built a solution allowing users to delete their own data. Coordinated across teams in the organization to understand the design and inform status of each step in the process.
+* Maintained projects that allow users to authenticate or pay for a subscription
 
 === Civitas Learning 
 .Senior Software Engineer
 
 _June 2016 - September 2019_
 
-Senior engineer working hand in hand with product owners and data scientists to build out a new product being sold to customers. I participated in work across the stack including the web ui, web services, and a Spark job running on AWS. 
+Senior engineer working hand in hand with product owners and data scientists to launch a new product for customers. I participated in work across the stack including the web ui, web services, and a Spark job running on AWS. 
 
-* Build out a new client using web application with React/Redux
-* Build a new REST service in Scala and the Akka framework
+* Launched a web application using React/Redux for a new product
+* Built a new REST service in Scala and the Akka framework
 * Migrated a client application to AWS from another cloud platform
-* Worked with data scientists to write a Spark job that is used for data analysis to present to our users in our web apps
+* Coordinated with data scientists to write a Spark job that is used for data analysis to present in our products
 * Created new service to ingest data into our warehouse from Kafka
 
 === Charles Schwab
@@ -43,15 +43,15 @@ _June 2011 - June 2016_
 
 Tech lead and developer of customer facing Schwab advisor website. Lead engineer of Schwab’s internal platform as a service. 
 
-* Design and delivery of a major iteration of Schwab’s Platform as a Service. 
-* Lead developer of new web portal for Schwab’s PaaS. The web portal was built as a “SPA” using Asp.Net, TypeScript, Bootstrap, and AngularJS. Jasmine was used for TDD. 
+* Spearheaded a major iteration of Schwab’s internal platform as a service 
+* Created the new web portal for Schwab’s PaaS. The web portal was built as a “SPA” using Asp.Net, TypeScript, Bootstrap, and AngularJS. Jasmine was used for TDD 
 * Tech lead of the advisor website maintenance team. This involves working with a business product owner and leading/mentoring a team of 6 developers and a qa team
 
 .Staff Software Engineer
 Key contributor to the middleware platform. Worked on multiple platforms such as the Enterprise Caching platform and .Net Platform as a Service.
 
-* Added high availability to the internal caching platform used by schwab.com
-* Managed an innovation lab which was to manage an internal forum and resources to promote innovation within the company by promoting these projects to upper management
+* Implemented high availability to the internal caching platform used by schwab.com
+* Facilitated the innovation lab which was to manage an internal forum and resources to promote innovation within the company by promoting these projects to upper management
 
 === Bank of America Merrill Lynch
 .Technology Analyst
@@ -60,7 +60,7 @@ _May 2008 - June 2011_
 
 Contributor to a java web service platform used for rules configuration management.
 
-* Worked on a SOAP based service using Spring-WS for configuration management. 
+* Contributed to the launch of a SOAP based service using Spring-WS for configuration management. 
 * Developed a web application integrated with a business workflow engine. This required speaking with the business side to gather proper requirements and architect a solution.
 * Developed and maintained python scripts for admin support
 * Participated in production support
@@ -73,8 +73,8 @@ _Summer 2007_
 
 Summer internship with the convertible bonds team. Build a java event consumer for real trading events to assist traders with real time decisions.
 
-* Build a java service using Spring
-* Built out bash scripts for deployment
+* Built a event listening service using Java/Spring
+* Created out bash scripts to use for deployment
 
 == Education
 
