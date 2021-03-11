@@ -14,6 +14,7 @@ Github: https://github.com/edenatx
 
 == Experience
 === MyFitnessPal
+.Lead Software Engineer
 _January 2021 - Present_
 
 Lead contributor in migrating services to help stand up MFP as a stand alone company
