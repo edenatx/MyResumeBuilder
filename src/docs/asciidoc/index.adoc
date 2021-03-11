@@ -13,10 +13,15 @@ Version Control: Git, TFS +
 Github: https://github.com/edenatx
 
 == Experience
+=== MyFitnessPal
+_January 2021 - Present_
+
+Lead contributor in migrating services to help stand up MFP as a stand alone company
+
 === Under Armour
 .Lead Software Engineer 
 
-_September 2019 - Present_
+_September 2019 - December 2020_
 
 Lead contributor on the team responsible for handling user sign-in, subscription management, and user data management.
 
